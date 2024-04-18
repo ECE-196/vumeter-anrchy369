@@ -1,14 +1,14 @@
 # CHANGELOG
 
-## {DATE}
-### Contributors
+## {DATE}04/17
+### Contributors John Mamola
 ...
 
-### Added
+### Added submission video and main files
 ...
 
-### Changed
+### Changed nothing
 ...
 
-### Removed
+### Removed unecessary files
 ...
